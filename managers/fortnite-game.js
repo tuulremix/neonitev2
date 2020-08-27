@@ -15,8 +15,8 @@ module.exports = (app) => {
                             hidden: false,
                             tabTitleOverride: "FORTNITE.DEV V2",
                             _type: "CommonUI Simple Message MOTD",
-                            title: "Welcome To Fortnite.Dev",
-                            body: "Made by Kemo (@xkem0x). If you have any bugs, you can join our Discord by clicking the button below.",
+                            title: "Welcome To tuul.Dev",
+                            body: "fait par Tuul_Remix.",
                             videoStreamingEnabled: false,
                             sortingPriority: 20,
                             id: "Fortnite-Dev-Welcome",
@@ -48,7 +48,7 @@ module.exports = (app) => {
                             _type: 'CommonUI Simple Message Base',
                             subgame: 'br',
                             title: "Fortnite.Dev V2",
-                            body: "Made by kemo (@xkem0x).\nDiscord: https://discord.gg/DJ6VUmD",
+                            body: "Made walid(@xkem0x).\nDiscord: https://discord.gg/DJ6VUmD",
                             spotlight: true
                         }
                     ]
