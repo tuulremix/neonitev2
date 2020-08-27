@@ -16,7 +16,7 @@ module.exports = (app) => {
                             tabTitleOverride: "FORTNITE.DEV V2",
                             _type: "CommonUI Simple Message MOTD",
                             title: "Welcome To Fortnite.Dev",
-                            body: "Made by Kemo (@xkem0x). If you have any bugs, you can join our Discord by clicking the button below.",
+                            body: "fait par walid.",
                             videoStreamingEnabled: false,
                             sortingPriority: 20,
                             id: "Fortnite-Dev-Welcome",
